@@ -15,8 +15,9 @@ To run this script, you need Admin Rights on the SCCM Site Server and on each DP
 ## Technet Summary  
 
 The Technet platform is no longer active. That's why I moved my solution to Github.  
-Old Link technet ==> <https://gallery.technet.microsoft.com/Check-SCCM-Distribution-e34b428e>
-new Link github  ==> <https://github.com/KlausBilger/SCCM_Check_DP_Libary>
+Old Link technet ==> <https://gallery.technet.microsoft.com/Check-SCCM-Distribution-e34b428e>  
+new Link github  ==> <https://github.com/KlausBilger/SCCM_Check_DP_Libary>  
+  
  **II' very proud that the Technet platform has over 2.000 downloads.**  
   
 &nbsp;
